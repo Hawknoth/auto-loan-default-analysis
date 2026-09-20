@@ -1,6 +1,6 @@
 # Auto Loan Portfolio: Default & Risk Analysis
 
-An intermediate business intelligence project that examines an auto-loan portfolio from a servicing and collections perspective. The goal is not to build a complex prediction model, but to identify portfolio segments that deserve closer monitoring and earlier collection treatment.
+This project examines an auto-loan portfolio from a servicing and collections perspective. The goal is not to build a complex prediction model, but to identify portfolio segments that deserve closer monitoring and earlier collection treatment.
 
 ![Portfolio dashboard](reports/figures/portfolio_dashboard.png)
 
