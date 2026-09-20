@@ -46,7 +46,7 @@ python src/analyze.py
 
 ## Research paper
 
-The project includes a short Spanish paper structured in APA 7 format. It documents the objective, method, complete findings, operational interpretation, limitations and references.
+The project includes a short English-language paper structured in APA 7 format. It documents the objective, method, complete findings, operational interpretation, limitations and references.
 
 - [APA 7 paper in Word](paper/auto_loan_portfolio_analysis_APA7.docx)
 - [APA 7 paper in PDF](paper/auto_loan_portfolio_analysis_APA7.pdf)
